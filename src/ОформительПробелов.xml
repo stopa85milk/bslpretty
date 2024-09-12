@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.12">
-	<ExternalDataProcessor uuid="b736cb9e-a525-4f8a-8765-ac2688a5de6b">
+	<ExternalDataProcessor uuid="346f5c2b-00bf-47b4-981b-0f7492fcf473">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
-				<xr:ObjectId>0ff3a460-c58f-4af5-a4d3-1225fc92de4d</xr:ObjectId>
+				<xr:ObjectId>a4046d47-158a-47b9-9650-1373573b5b2a</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.ОформительОтступов" category="Object">
-				<xr:TypeId>975c3c2a-bfe8-49b1-991e-217b25d78d06</xr:TypeId>
-				<xr:ValueId>ac693819-4c26-4dfa-a04f-68b65c7a97a7</xr:ValueId>
+			<xr:GeneratedType name="ExternalDataProcessorObject.ОформительПробелов" category="Object">
+				<xr:TypeId>00feabe7-3244-4e94-b9e2-7529ca28a4df</xr:TypeId>
+				<xr:ValueId>66ad008b-bcb9-4a42-871b-57991540f65b</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ОформительОтступов</Name>
+			<Name>ОформительПробелов</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Оформитель отступов</v8:content>
+					<v8:content>Оформитель пробелов</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
